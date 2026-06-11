@@ -8,7 +8,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 <a href="docs/project-mangrove.html">
 
-::: {.project-circle style="background-image: url('images/mangrove.jpeg');"}
+::: {.project-circle style="background-image: url('images/docs/mangrove.jpeg');"}
 :::
 
 ::: project-title
@@ -19,7 +19,7 @@ Automated Mangrove Monitoring
 
 <a href="docs/project-habitat.html">
 
-::: {.project-circle style="background-image: url('images/habitat.jpg');"}
+::: {.project-circle style="background-image: url('images/docs/habitat.jpg');"}
 :::
 
 ::: project-title
@@ -30,7 +30,7 @@ Habitat Suitability Analytics
 
 <a href="docs/project-cloud.html">
 
-::: {.project-circle style="background-image: url('images/cloud-compute.jpg');"}
+::: {.project-circle style="background-image: url('images/docs/cloud-compute.jpg');"}
 :::
 
 ::: project-title

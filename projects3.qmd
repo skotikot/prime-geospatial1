@@ -1,0 +1,40 @@
+---
+title: "Projects & Applications"
+---
+
+Select an application below to view interactive dashboards, project methodology, and system architectures.
+
+:::::: project-grid
+<a href="docs/project-mangrove.html" class="project-card">
+
+::: {.project-circle style="background-image: url('images/mangrove.jpeg');"}
+:::
+
+```         
+<div class="project-title">Automated Mangrove Monitoring</div>
+```
+
+</a>
+
+<a href="docs/project-habitat.html" class="project-card">
+
+::: {.project-circle style="background-image: url('images/habitat.jpg');"}
+:::
+
+```         
+<div class="project-title">Habitat Suitability Analytics</div>
+```
+
+</a>
+
+<a href="docs/project-cloud.html" class="project-card">
+
+::: {.project-circle style="background-image: url('images/cloud-compute.jpg');"}
+:::
+
+```         
+<div class="project-title">Spatial Decision Support</div>
+```
+
+</a>
+::::::
