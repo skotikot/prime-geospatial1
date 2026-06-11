@@ -44,9 +44,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Meet the Team",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "Meet the Team",
+    "section": "",
+    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
   },
   {
     "objectID": "contact.html",
