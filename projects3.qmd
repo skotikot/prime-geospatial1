@@ -7,7 +7,7 @@ Select an application below to view interactive dashboards, project methodology,
 :::::: project-grid
 <a href="docs/project-mangrove.html" class="project-card">
 
-::: {.project-circle style="background-image: url('images/mangrove.jpeg');"}
+::: {.project-circle style="background-image: url('../images/mangrove.jpeg');"}
 :::
 
 ```         
@@ -18,7 +18,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 <a href="docs/project-habitat.html" class="project-card">
 
-::: {.project-circle style="background-image: url('images/habitat.jpg');"}
+::: {.project-circle style="background-image: url('images/../habitat.jpg');"}
 :::
 
 ```         
@@ -29,7 +29,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 <a href="docs/project-cloud.html" class="project-card">
 
-::: {.project-circle style="background-image: url('images/cloud-compute.jpg');"}
+::: {.project-circle style="background-image: url('../images/cloud-compute.jpg');"}
 :::
 
 ```         
