@@ -8,8 +8,8 @@ page-layout: custom
 
 <!-- The text overlay content -->
 
-::: {.hero-content style="h1"}
-```         
+::: hero-content
+``` hero-content
 <h1>Prime Geospatial</h1>
 ```
 :::
