@@ -10,7 +10,7 @@ page-layout: custom
 
 ::: hero-content
 ``` hero-content
-<h1>Prime Geospatial</h1>
+<h11>Prime Geospatial</h11>
 ```
 :::
 
