@@ -4,27 +4,33 @@ title: "Projects & Applications"
 
 Select an application below to view interactive dashboards, project methodology, and system architectures.
 
-::: {.project-grid}
+\`\`\`{=html}
 
-::: {.project-item}
-\<a href="project-mangrove.qmd"\>
-\<div class="project-circle" style="background-image: url('images/mangrove.jpg');"\>\</div\>
-\<div class="project-title"\>Automated Mangrove Monitoring\</div\>
-\</a\>
+:::::: project-grid
+::: project-item
+```         
+<a href="project-mangrove.html">
+  <div class="project-circle" style="background-image: url('images/mangrove.jpg');"></div>
+  <div class="project-title">Automated Mangrove Monitoring</div>
+</a>
+```
 :::
 
-::: {.project-item}
-\<a href="project-habitat.qmd"\>
-\<div class="project-circle" style="background-image: url('images/habitat.jpg');"\>\</div\>
-\<div class="project-title"\>Habitat Suitability Analytics\</div\>
-\</a\>
+::: project-item
+```         
+<a href="project-habitat.html">
+  <div class="project-circle" style="background-image: url('images/habitat.jpg');"></div>
+  <div class="project-title">Habitat Suitability Analytics</div>
+</a>
+```
 :::
 
-::: {.project-item}
-\<a href="project-cloud.qmd"\>
-\<div class="project-circle" style="background-image: url('images/cloud-compute.jpg');"\>\</div\>
-\<div class="project-title"\>Spatial Decision Support\</div\>
-\</a\>
+::: project-item
+```         
+<a href="project-cloud.html">
+  <div class="project-circle" style="background-image: url('images/cloud-compute.jpg');"></div>
+  <div class="project-title">Spatial Decision Support</div>
+</a>
+```
 :::
-
-:::
+::::::
