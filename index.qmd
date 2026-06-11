@@ -8,11 +8,7 @@ page-layout: custom
 
 <!-- The text overlay content -->
 
-::: hero-content
-``` hero-content
-<h11>Prime Geospatial</h11>
-```
-:::
+<h1>Prime Geospatial</h1>
 
 </header>
 
