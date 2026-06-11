@@ -1,0 +1,24 @@
+---
+title: "Contact Prime Geospatial"
+---
+
+Let's discuss your next geospatial project. Fill out the form below, and one of our three principal partners will get back to you within 2 business days.
+
+\`\`\`{=html}
+\<form action="\[https://formspree.io/f/[YOUR_UNIQUE_ENDPOINT_ID](https://formspree.io/f/mrevavwz)\](https://formspree.io/f/[YOUR_UNIQUE_ENDPOINT_ID](https://formspree.io/f/mrevavwz))" method="POST" style="max-width: 500px; margin-top: 20px; font-family: sans-serif;"\>
+\<div style="margin-bottom: 15px;"\>
+\<label style="display:block; margin-bottom:5px; font-weight: bold;"\>Your Name:\</label\>
+\<input type="text" name="name" required style="width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;"\>
+\</div\>
+\<div style="margin-bottom: 15px;"\>
+\<label style="display:block; margin-bottom:5px; font-weight: bold;"\>Email Address:\</label\>
+\<input type="email" name="\_replyto" required style="width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;"\>
+\</div\>
+\<div style="margin-bottom: 15px;"\>
+\<label style="display:block; margin-bottom:5px; font-weight: bold;"\>Project Scope / Dataset Details:\</label\>
+\<textarea name="message" required style="width:100%; height:120px; padding:8px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;"\>\</textarea\>
+\</div\>
+\<button type="submit" style="background:#0275d8; color:white; border:none; padding:10px 20px; border-radius: 4px; font-size: 16px; cursor:pointer;"\>Submit Project Request\</button\>
+\</form\>
+
+\`\`\`
