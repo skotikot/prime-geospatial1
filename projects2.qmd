@@ -1,0 +1,16 @@
+---
+title: "Projects & Applications"
+---
+
+Select an application below to view interactive dashboards, project methodology, and system architectures.
+
+<a href="docs/project-mangrove.html">
+
+::: {.project-circle style="background-image: url('images/mangrove.jpeg');"}
+:::
+
+::: project-title
+Automated Mangrove Monitoring
+:::
+
+</a>
