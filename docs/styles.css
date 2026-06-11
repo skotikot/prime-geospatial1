@@ -106,3 +106,19 @@ h1, h2, h3 {
   font-weight: 300;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
 }
+
+.people-row {
+  display: flex;            /* Activates the layout engine */
+  flex-direction: row;      /* Places items side-by-side */
+  justify-content: center;  /* Centers the 3 people horizontally on the page */
+  gap: 30px;                /* Creates clean space between each card */
+  flex-wrap: nowrap;        /* Keeps them on 1 row on desktop */
+  width: 100%;
+  max-width: 1200px;        /* Limits row width so it looks good on massive screens */
+  margin: 0 auto;           /* Centers the whole row container itself */
+}
+
+.person-card {
+  flex: 1;                  /* Gives each of the 3 cards an equal width */
+  text-align: center;       /* Centers the text and images inside the card */
+}

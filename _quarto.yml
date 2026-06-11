@@ -21,6 +21,8 @@ website:
         text: Projects3
       - href: people.qmd
         text: Our Team
+      - href: people2.qmd
+        text: Our Team2
       - href: contact.qmd
         text: Contact
 
