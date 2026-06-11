@@ -1,0 +1,23 @@
+---
+title: "Prime Geospatial"
+subtitle: "Data Collection, Processing, & Spatial Consulting"
+---
+
+Welcome to Prime Geospatial. After 8 years of dormancy, we are back to solve your most complex spatiotemporal and environmental data challenges. We specialize in reproducible workflows, data cleaning, and custom spatial analytics.
+
+## Interactive Proof of Concept
+
+Below is a live demonstration of our web-mapping deployment pipelines, rendered directly from spatial data attributes.
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(leaflet)
+
+# Quick demonstration interactive map
+leaflet() %>%
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  setView(lng = -72.25, lat = 41.80, zoom = 12) %>% 
+  addPopups(-72.25, 41.80, "Prime Geospatial Operations Base")
+```

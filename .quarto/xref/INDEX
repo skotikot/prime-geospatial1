@@ -13,5 +13,14 @@
   },
   "projects.qmd": {
     "projects.html": "46ca5d9b"
+  },
+  "project-cloud.qmd": {
+    "project-cloud.html": "89892f72"
+  },
+  "project-habitat.qmd": {
+    "project-habitat.html": "c5e93574"
+  },
+  "project-mangrove.qmd": {
+    "project-mangrove.html": "9cb11428"
   }
 }

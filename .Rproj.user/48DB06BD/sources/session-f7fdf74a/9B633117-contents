@@ -2,16 +2,29 @@
 title: "Projects & Applications"
 ---
 
-Our operational models are built on free, reproducible, open-access workflows.
+Select an application below to view interactive dashboards, project methodology, and system architectures.
 
-::: {.project-card}
-### 🌍 Automated Coastal Ecosystem Monitoring Tool
-A cloud-based pipeline leveraging public satellite archives and Google Earth Engine to track regional land-cover dynamics and coastal changes across the Caribbean.
-[\*]{.underline} \*\*Core Stack:\*\* Python, Google Earth Engine API, JavaScript
+::: {.project-grid}
+
+::: {.project-item}
+\<a href="project-mangrove.qmd"\>
+\<div class="project-circle" style="background-image: url('images/mangrove.jpg');"\>\</div\>
+\<div class="project-title"\>Automated Mangrove Monitoring\</div\>
+\</a\>
 :::
 
-::: {.project-card}
-### 🦎 Habitat Suitability Analytics Engine
-An open-source modeling suite built to clean raw animal sighting metrics and calculate complex landscape fragmentation values.
-[\*]{.underline} \*\*Core Stack:\*\* R (\`sf\`, \`terra\`), Git-backed version management
+::: {.project-item}
+\<a href="project-habitat.qmd"\>
+\<div class="project-circle" style="background-image: url('images/habitat.jpg');"\>\</div\>
+\<div class="project-title"\>Habitat Suitability Analytics\</div\>
+\</a\>
+:::
+
+::: {.project-item}
+\<a href="project-cloud.qmd"\>
+\<div class="project-circle" style="background-image: url('images/cloud-compute.jpg');"\>\</div\>
+\<div class="project-title"\>Spatial Decision Support\</div\>
+\</a\>
+:::
+
 :::

@@ -23,7 +23,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: styles.css # <-- This line tells Quarto to look for your CSS file!
     toc: true                   # Generates the right-hand page navigation menu
     toc-location: right
 

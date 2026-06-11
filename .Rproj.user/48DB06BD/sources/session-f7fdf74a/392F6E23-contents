@@ -1,0 +1,13 @@
+---
+title: "Automated Mangrove Monitoring"
+subtitle: "Caribbean Land-Cover Dynamics Tool"
+---
+
+### Project Overview
+
+This tool automates regional ecosystem tracking...
+
+### Technical Architecture
+
+- **Compute Engine:** Google Earth Engine API
+- **Data Stream:** Sentinel-2 Level-2A imagery
