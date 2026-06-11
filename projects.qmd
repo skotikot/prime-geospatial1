@@ -9,7 +9,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 ::: project-item
 ```         
-<a href="project-mangrove.html">
+<a href="docs/project-mangrove.html">
   <div class="project-circle" style="background-image: url('images/mangrove.jpeg');"></div>
   <div class="project-title">Automated Mangrove Monitoring</div>
 </a>
@@ -18,7 +18,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 ::: project-item
 ```         
-<a href="project-habitat.html">
+<a href="docs/project-habitat.html">
   <div class="project-circle" style="background-image: url('images/habitat.jpg');"></div>
   <div class="project-title">Habitat Suitability Analytics</div>
 </a>
@@ -27,7 +27,7 @@ Select an application below to view interactive dashboards, project methodology,
 
 ::: project-item
 ```         
-<a href="project-cloud.html">
+<a href="docs/project-cloud.html">
   <div class="project-circle" style="background-image: url('images/cloud-compute.jpg');"></div>
   <div class="project-title">Spatial Decision Support</div>
 </a>
