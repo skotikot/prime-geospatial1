@@ -35,20 +35,6 @@
     "text": "Interactive Proof of Concept\nBelow is a live demonstration of our web-mapping deployment pipelines, rendered directly from spatial data attributes."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Prime Geospatial",
-    "section": "",
-    "text": "Let’s discuss your next geospatial project. Fill out the form below, and one of our three principal partners will get back to you within 2 business days.\n```{=html} &lt;form action=“[https://formspree.io/f/YOUR_UNIQUE_ENDPOINT_ID](https://formspree.io/f/YOUR_UNIQUE_ENDPOINT_ID)” method=“POST” style=“max-width: 500px; margin-top: 20px; font-family: sans-serif;”&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Your Name:&lt;/label&gt; &lt;input type=“text” name=“name” required style=“width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;”&gt; &lt;/div&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Email Address:&lt;/label&gt; &lt;input type=“email” name=“_replyto” required style=“width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;”&gt; &lt;/div&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Project Scope / Dataset Details:&lt;/label&gt; &lt;textarea name=“message” required style=“width:100%; height:120px; padding:8px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;”&gt;&lt;/textarea&gt; &lt;/div&gt; &lt;button type=“submit” style=“background:#0275d8; color:white; border:none; padding:10px 20px; border-radius: 4px; font-size: 16px; cursor:pointer;”&gt;Submit Project Request&lt;/button&gt; &lt;/form&gt;\n```"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Prime Geospatial",
@@ -61,6 +47,34 @@
     "title": "Prime Geospatial",
     "section": "Primary Areas of Expertise",
     "text": "Primary Areas of Expertise\n\n\n\n🛰️ Remote Sensing & Land-Cover\nWe build automated analytical systems using satellite imagery archives to track fine-scale environmental and ecosystem dynamics over time.\n\n\n\n\n\n📊 Data Optimization Pipelines\nWe transform unstructured, messy, or scaled spatial data arrays into organized, open-access, reproducible computational workflows.\n\n\n\n\n\n\n🖥️ Spatial Decision Tools\nWe design software packages and web interfaces that integrate complex environmental models directly into planning and management pipelines.\n\n\n\n\n\n🌲 Landscape Architecture\nWe calculate spatial fragmentation metrics and run advanced predictive models to help clients assess habitat suitability and long-term climate resilience."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Prime Geospatial",
+    "section": "",
+    "text": "Let’s discuss your next geospatial project. Fill out the form below, and one of our three principal partners will get back to you within 2 business days.\n```{=html} &lt;form action=“[https://formspree.io/f/YOUR_UNIQUE_ENDPOINT_ID](https://formspree.io/f/YOUR_UNIQUE_ENDPOINT_ID)” method=“POST” style=“max-width: 500px; margin-top: 20px; font-family: sans-serif;”&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Your Name:&lt;/label&gt; &lt;input type=“text” name=“name” required style=“width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;”&gt; &lt;/div&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Email Address:&lt;/label&gt; &lt;input type=“email” name=“_replyto” required style=“width:100%; padding:8px; border: 1px solid #ccc; border-radius: 4px;”&gt; &lt;/div&gt; &lt;div style=“margin-bottom: 15px;”&gt; &lt;label style=“display:block; margin-bottom:5px; font-weight: bold;”&gt;Project Scope / Dataset Details:&lt;/label&gt; &lt;textarea name=“message” required style=“width:100%; height:120px; padding:8px; border: 1px solid #ccc; border-radius: 4px; resize: vertical;”&gt;&lt;/textarea&gt; &lt;/div&gt; &lt;button type=“submit” style=“background:#0275d8; color:white; border:none; padding:10px 20px; border-radius: 4px; font-size: 16px; cursor:pointer;”&gt;Submit Project Request&lt;/button&gt; &lt;/form&gt;\n```"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
+  },
+  {
+    "objectID": "people.html#meet-the-team",
+    "href": "people.html#meet-the-team",
+    "title": "People",
+    "section": "",
+    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
   },
   {
     "objectID": "project-habitat.html",
