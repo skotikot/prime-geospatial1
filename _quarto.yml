@@ -15,12 +15,10 @@ website:
         text: Services & Workflows
       - href: projects.qmd  # Or "Case Studies / White Papers"
         text: Projects
-      - href: about.qmd
+      - href: people.qmd
         text: Our Team
       - href: contact.qmd
         text: Contact
-      - href: people.qmd
-        text: People
 
 format:
   html:

@@ -42,20 +42,6 @@
     "text": "Primary Areas of Expertise\n\n\n\n🛰️ Remote Sensing & Land-Cover\nWe build automated analytical systems using satellite imagery archives to track fine-scale environmental and ecosystem dynamics over time.\n\n\n\n\n\n📊 Data Optimization Pipelines\nWe transform unstructured, messy, or scaled spatial data arrays into organized, open-access, reproducible computational workflows.\n\n\n\n\n\n\n🖥️ Spatial Decision Tools\nWe design software packages and web interfaces that integrate complex environmental models directly into planning and management pipelines.\n\n\n\n\n\n🌲 Landscape Architecture\nWe calculate spatial fragmentation metrics and run advanced predictive models to help clients assess habitat suitability and long-term climate resilience."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Meet the Team",
-    "section": "",
-    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
-  },
-  {
-    "objectID": "about.html#section",
-    "href": "about.html#section",
-    "title": "Meet the Team",
-    "section": "",
-    "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Prime Geospatial",
@@ -65,14 +51,14 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Meet the Team",
     "section": "",
     "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
   },
   {
-    "objectID": "people.html#meet-the-team",
-    "href": "people.html#meet-the-team",
-    "title": "People",
+    "objectID": "people.html#section",
+    "href": "people.html#section",
+    "title": "Meet the Team",
     "section": "",
     "text": "### [Susan Kotikot] Principal Investigator\n\n\n\n\n\n ### Donald Akanga Senior Geospatial Analyst\n\n\n\n\n ### Dan Wanyama Postdoctoral Researcher"
   },

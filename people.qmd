@@ -1,8 +1,8 @@
 ---
-title: "People"
+title: "Meet the Team"
 ---
 
-## Meet the Team
+## 
 
 :::: {.g-col-12 .g-col-md-4}
 ::: {.card .border-0 .text-center}
