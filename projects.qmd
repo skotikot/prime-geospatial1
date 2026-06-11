@@ -10,7 +10,7 @@ Select an application below to view interactive dashboards, project methodology,
 ::: project-item
 ```         
 <a href="project-mangrove.html">
-  <div class="project-circle" style="background-image: url('images/mangrove.jpg');"></div>
+  <div class="project-circle" style="background-image: url('images/mangrove.jpeg');"></div>
   <div class="project-title">Automated Mangrove Monitoring</div>
 </a>
 ```
