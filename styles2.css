@@ -11,19 +11,22 @@ h1, h2, h3 {
     margin-top: 1.5em;
 }
 
-.project-grid {
-  display: grid;
-  /* Creates 3 equal columns on desktop, drops to fewer columns on tablet/mobile */
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
-  gap: 30px;                     /* Spacing between grid cells */
-  margin: 40px auto;
-  max-width: 1200px;
+/* Add a clean light gray styling box to emphasize case studies or projects */
+.project-card {
+    background: #f8f9fa;
+    border-left: 4px solid #0275d8;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 0 4px 4px 0;
 }
 
-.project-card {
-  text-decoration: none;
-  color: inherit;
-  text-align: center;
+/* Container holding all the project items */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 40px;
+    margin-top: 40px;
+    justify-items: center;
 }
 
 /* Individual item centering alignment */

@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects & Applications",
     "section": "",
-    "text": "Select an application below to view interactive dashboards, project methodology, and system architectures.\n\n\n&lt;a href=\"docs/project-mangrove.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/mangrove.jpeg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Automated Mangrove Monitoring&lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"docs/project-habitat.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/habitat.jpg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Habitat Suitability Analytics&lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"docs/project-cloud.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/cloud-compute.jpg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Spatial Decision Support&lt;/div&gt;\n&lt;/a&gt;"
+    "text": "Select an application below to view interactive dashboards, project methodology, and system architectures.\n\n&lt;div class=“project-grid”&gt;\n\n&lt;a href=\"docs/project-mangrove.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/mangrove.jpeg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Automated Mangrove Monitoring&lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"docs/project-habitat.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/habitat.jpg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Habitat Suitability Analytics&lt;/div&gt;\n&lt;/a&gt;\n\n\n&lt;a href=\"docs/project-cloud.html\"&gt;\n  &lt;div class=\"project-circle\" style=\"background-image: url('images/cloud-compute.jpg');\"&gt;&lt;/div&gt;\n  &lt;div class=\"project-title\"&gt;Spatial Decision Support&lt;/div&gt;\n&lt;/a&gt;\n\n&lt;/div&gt;"
   },
   {
     "objectID": "project-habitat.html",
@@ -81,6 +81,6 @@
     "href": "projects2.html",
     "title": "Projects & Applications",
     "section": "",
-    "text": "Select an application below to view interactive dashboards, project methodology, and system architectures.\n\n\n\n\n\nAutomated Mangrove Monitoring"
+    "text": "Select an application below to view interactive dashboards, project methodology, and system architectures.\n&lt;div class=“project-grid”&gt;\n\n\n\n\n\nAutomated Mangrove Monitoring\n\n\n\n\n\n\n\nHabitat Suitability Analytics\n\n\n\n\n\n\n\nSpatial Decision Support\n\n\n&lt;/div&gt;"
   }
 ]

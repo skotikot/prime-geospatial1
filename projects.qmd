@@ -5,6 +5,8 @@ title: "Projects & Applications"
 Select an application below to view interactive dashboards, project methodology, and system architectures.
 
 :::::: project-grid
+\<div class="project-grid"\>
+
 ::: project-item
 ```         
 <a href="docs/project-mangrove.html">
@@ -31,4 +33,6 @@ Select an application below to view interactive dashboards, project methodology,
 </a>
 ```
 :::
+
+\</div\>
 ::::::
