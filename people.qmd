@@ -2,27 +2,25 @@
 title: "Meet the Team"
 ---
 
-## 
-
+::::::::: grid
+:::::: {.g-col-12 .g-col-md-4}
 :::: {.g-col-12 .g-col-md-4}
 ::: {.card .border-0 .text-center}
-![](images/Kotikot.jpg){.rounded-circle style="object-fit: cover;"} \### \[Susan Kotikot\] **Principal Investigator**
+![](images/Kotikot.jpg){.rounded-circle style="object-fit: cover;"} \[Susan Kotikot\] **Principal Investigator**
 :::
 ::::
 
-::::::: grid
-:::: {.g-col-12 .g-col-md-4}
 ::: {.card .border-0 .text-center}
-![](images/Akanga.jpg){.rounded-circle style="object-fit: cover;"} \### Donald Akanga **Senior Geospatial Analyst**
+![](images/Akanga.jpg){.rounded-circle style="object-fit: cover;"} Donald Akanga **Senior Geospatial Analyst**
 :::
-::::
+::::::
 
 :::: {.g-col-12 .g-col-md-4}
 ::: {.card .border-0 .text-center}
-![](images/Wanyama.jpg){.rounded-circle style="object-fit: cover;"} \### Dan Wanyama **Postdoctoral Researcher**
+![](images/Wanyama.jpg){.rounded-circle style="object-fit: cover;"}Dan Wanyama **Postdoctoral Researcher**
 :::
 ::::
-:::::::
+:::::::::
 
 ------------------------------------------------------------------------
 
