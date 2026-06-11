@@ -35,13 +35,6 @@
     "text": "Interactive Proof of Concept\nBelow is a live demonstration of our web-mapping deployment pipelines, rendered directly from spatial data attributes."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Prime Geospatial",
-    "section": "",
-    "text": "![](images/banner.jpg){width=“100%” style=“height: 350px; object-fit: cover; object-position: center; border-bottom: 1px solid #dee2e6;”}\nWe bridge the gap between complex spatial monitoring data and actionable environmental decision-support tools. Our team specializes in remote sensing pipelines, automated data cleaning workflows, and spatiotemporal modeling."
-  },
-  {
     "objectID": "index.html#primary-areas-of-expertise",
     "href": "index.html#primary-areas-of-expertise",
     "title": "Prime Geospatial",

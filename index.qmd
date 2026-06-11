@@ -1,11 +1,15 @@
 ---
 title: "Prime Geospatial"
 subtitle: "Ecological & Geospatial Research Analytics"
+page-layout: custom
 ---
 
 ::: {.column-screen}
-\![\](images/banner.jpg){width="100%" style="height: 350px; object-fit: cover; object-position: center; border-bottom: 1px solid #dee2e6;"}
+\<img src="images/hero-gis-banner.jpg" style="width: 100vw; height: 350px; object-fit: cover; object-position: center; border-bottom: 1px solid #dee2e6; margin: 0; display: block;"\>
 :::
+
+::: {.page-columns .page-full}
+::: {.column-page}
 
 We bridge the gap between complex spatial monitoring data and actionable environmental decision-support tools. Our team specializes in remote sensing pipelines, automated data cleaning workflows, and spatiotemporal modeling.
 
