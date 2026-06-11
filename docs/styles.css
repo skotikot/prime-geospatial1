@@ -65,3 +65,44 @@ h1, h2, h3 {
     max-width: 200px;
     margin: 0 auto;
 }
+
+
+.hero-banner {
+  /* 1. Linear-gradient creates the dark tint. Replace the second URL with your image path */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/banner.jpg');
+  
+  /* 2. Forces the image to span across the entire screen width */
+  width: 100vw;
+  height: 400px; /* Adjust this height to make it taller or shorter */
+  
+  /* 3. Keeps the image centered and beautifully scaled without distortion */
+  background-position: center;
+  background-size: cover;
+  
+  /* 4. Centers the text directly in the middle of the banner */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+  /* 5. Resets any default browser margins at the top of the page */
+  margin: 0;
+}
+
+/* Typography styling for the text sitting on top */
+.hero-content h1 {
+  color: #ffffff;
+  font-size: 3.5rem;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Adds extra punch for readability */
+}
+
+.hero-content p {
+  color: #f8f9fa;
+  font-size: 1.3rem;
+  margin: 0;
+  font-weight: 300;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}

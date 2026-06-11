@@ -4,9 +4,18 @@ subtitle: "Ecological & Geospatial Research Analytics"
 page-layout: custom
 ---
 
-::: column-screen
-\<img src="docs/banner.jpg" style="width: 100vw; height: 350px; object-fit: cover; object-position: center; border-bottom: 1px solid #dee2e6; margin: 0; display: block;"\>
+<header class="hero-banner">
+
+<!-- The text overlay content -->
+
+::: hero-content
+```         
+<h1>EcoGraph</h1>
+<p>Landscape Ecology & Spatial Analysis Laboratory</p>
+```
 :::
+
+</header>
 
 :::::::::::: {.page-columns .page-full}
 ::::::::::: column-page
