@@ -4,15 +4,19 @@ project:
 
 website:
   title: "Prime Geospatial"
+  search: true                  # Adds a top-right search bar just like academic sites
   navbar:
-    background: primary
+    background: dark            # Gives you that sharp, high-contrast header bar
+    foreground: light
     left:
       - href: index.qmd
         text: Home
       - href: services.qmd
-        text: Services
+        text: Services & Workflows
+      - href: projects.qmd  # Or "Case Studies / White Papers"
+        text: Projects
       - href: about.qmd
-        text: About Us
+        text: Our Team
       - href: contact.qmd
         text: Contact
 
@@ -20,5 +24,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: true                   # Generates the right-hand page navigation menu
+    toc-location: right
 

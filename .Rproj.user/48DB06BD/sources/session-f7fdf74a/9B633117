@@ -1,9 +1,9 @@
 {
     "id": "9B633117",
-    "path": "C:/Users/qai25001/OneDrive - University of Connecticut/REGAL - REGAL_allData/PrimeGeo/docs/index.qmd",
-    "project_path": "index.qmd",
+    "path": "C:/Users/qai25001/OneDrive - University of Connecticut/REGAL - REGAL_allData/PrimeGeo/docs/projects.qmd",
+    "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2664974844",
     "contents": "",
     "dirty": false,
     "created": 1781188211864.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "370:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1781188204,
+    "lastKnownWriteTime": 1781201925,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1781188204,
+    "last_content_update": 1781201925361,
     "read_only": false,
     "read_only_alternatives": []
 }
