@@ -67,7 +67,7 @@
     "href": "people2.html",
     "title": "Meet the Team",
     "section": "",
-    "text": "&lt;img src=\"images/Kotikot.jpg\" alt=\"Team Member 1\"&gt;\n&lt;h3&gt;Name 1&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;\n\n\n&lt;img src=\"images/Akanga.jpg\" alt=\"Team Member 2\"&gt;\n&lt;h3&gt;Name 2&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;\n\n\n&lt;img src=\"images/Wanyama.jpg\" alt=\"Team Member 3\"&gt;\n&lt;h3&gt;Name 3&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;"
+    "text": "&lt;img src=\"../images/Kotikot.jpg\" alt=\"Team Member 1\"&gt;\n&lt;h3&gt;Name 1&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;\n\n\n&lt;img src=\"../images/Akanga.jpg\" alt=\"Team Member 2\"&gt;\n&lt;h3&gt;Name 2&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;\n\n\n&lt;img src=\"../images/Wanyama.jpg\" alt=\"Team Member 3\"&gt;\n&lt;h3&gt;Name 3&lt;/h3&gt;\n&lt;p&gt;Role / Bio&lt;/p&gt;"
   },
   {
     "objectID": "project-habitat.html",

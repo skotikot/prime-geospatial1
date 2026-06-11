@@ -66,6 +66,12 @@ h1, h2, h3 {
     margin: 0 auto;
 }
 
+.profile-img {
+  width: 200px;         /* Sets a uniform width */
+  height: 200px;        /* Sets a uniform height */
+  object-fit: cover;    /* Prevents the image from stretching/squishing */
+  border-radius: 50%;   /* Optional: makes them circular */
+}
 
 .hero-banner {
   /* 1. Linear-gradient creates the dark tint. Replace the second URL with your image path */
@@ -121,4 +127,10 @@ h1, h2, h3 {
 .person-card {
   flex: 1;                  /* Gives each of the 3 cards an equal width */
   text-align: center;       /* Centers the text and images inside the card */
+}
+
+@media (max-width: 768px) {
+  .people-row {
+    flex-wrap: wrap; /* Allows them to stack on top of each other on mobile */
+  }
 }
