@@ -8,10 +8,9 @@ page-layout: custom
 
 <!-- The text overlay content -->
 
-::: hero-content
+::: {.hero-content style="h1"}
 ```         
-<h1>EcoGraph</h1>
-<p>Landscape Ecology & Spatial Analysis Laboratory</p>
+<h1>Prime Geospatial</h1>
 ```
 :::
 
