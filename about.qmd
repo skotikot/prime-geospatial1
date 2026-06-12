@@ -2,4 +2,51 @@
 title: "Learn about us"
 ---
 
-Welcome to Prime Geospatial. After 8 years of dormancy, we are back to solve your most complex spatiotemporal and environmental data challenges. We specialize in reproducible workflows, data cleaning, and custom spatial analytics.
+::: {.grid}
+
+::: {.g-col-12}
+# Bridging the Gap Between Data and Discovery
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Our Philosophy
+At Prime Geospatial, our mission is to elevate the standard of spatial data science through technical rigor, transparency, and advanced ecological modeling. We believe that environmental decision-making is only as strong as the data behind it—and the expertise applied to interpret that data.
+:::
+
+::: {.g-col-12 .g-col-md-6}
+### Technical Foundation
+The foundation of Prime Geospatial is built upon years of academic and professional engagement with cutting-edge spatial technologies. We do not just process data; we interpret it within the context of landscape ecology theory and statistical integrity.
+:::
+
+:::
+
+<br>
+
+## Our Core Competencies
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Spatial Data Science
+Advanced R and Python workflows for raster analysis and complex data visualization.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Ecological Modeling
+Theoretical landscape ecology, focusing on the critical distinction between configuration and spatial patterns.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Statistical Rigor
+Expertise in spatial statistics and reproducible research practices to ensure scientific integrity.
+:::
+
+:::
+
+---
+
+## Professional Standards
+
+- **Reproducibility:** Utilizing version control and open-science standards in every project.
+- **Technical Precision:** A focus on logic-based, systematic approaches to spatial problems.
+- **Interdisciplinary Collaboration:** Leveraging academic expertise to solve real-world environmental management challenges.
