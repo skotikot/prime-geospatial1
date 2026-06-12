@@ -1,5 +1,5 @@
 ---
-title: "Learn about us"
+title: "Who we are"
 ---
 
 ::: {.grid}
