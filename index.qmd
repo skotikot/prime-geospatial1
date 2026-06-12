@@ -68,9 +68,9 @@ Specialized, hands-on training in advanced geospatial applications, spatial stat
 
 
 
-::: {.column-screen style="background-color: #004a99; color: white; padding: 3rem 2rem; text-align: center; margin-top: 3rem;"}
+::: {.column-screen style="background-color: #004a99; color: white; padding: 1rem 0.5rem; text-align: center; margin-top: 1rem;"}
 
-## **Ready to map out your next project?**
+**Ready to map out your next project?**
 
 We are currently preparing our systems for launch. If you are interested in partnering with us or scheduling a consultation, we would love to hear from you.
 

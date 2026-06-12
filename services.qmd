@@ -10,6 +10,7 @@ At Prime Geospatial, we provide specialized services designed to bridge the gap 
 
 ::: {.g-col-12 .g-col-md-6}
 ### 1. Geospatial Consulting
+
 We offer tailored strategies for site-specific and regional environmental challenges.
 - **Landscape Analysis:** Assessing spatial patterns and environmental change over time.
 - **Environmental Risk Assessment:** Leveraging spatial intelligence to mitigate operational risks.
@@ -19,9 +20,11 @@ We offer tailored strategies for site-specific and regional environmental challe
 ::: {.g-col-12 .g-col-md-6}
 ### 2. Data Cleaning & Preprocessing
 Spatial data is only as good as its foundation. We ensure your datasets are robust and analysis-ready.
+
 - **Data Integration:** Merging disparate spatial and non-spatial environmental datasets.
 - **Cleaning & Quality Control:** Systematic removal of errors, noise, and inconsistencies in spatial features.
 - **Preprocessing Pipelines:** Developing reproducible workflows for automated data preparation.
+
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -35,9 +38,11 @@ We empower your team to handle complex spatial challenges with confidence.
 ::: {.g-col-12 .g-col-md-6}
 ### 4. Analytical Support
 Beyond data preparation, we offer deep-dive analytical services for specialized research.
+
 - **Statistical Modeling:** Building custom models to address unique ecological questions.
 - **Visualization:** Creating high-impact, data-driven visualizations for reporting and decision-making.
 - **Code Review & Optimization:** Refining your existing spatial scripts for speed, scalability, and reproducibility.
+
 :::
 
 :::
@@ -45,6 +50,7 @@ Beyond data preparation, we offer deep-dive analytical services for specialized 
 ---
 
 ### Why Choose Prime Geospatial?
+
 - **Reproducible Workflows:** Every service is delivered with full documentation and open-science standards.
 - **Expert Integration:** We combine high-level statistical theory with practical, on-the-ground environmental knowledge.
 - **Tailored Solutions:** We don't believe in "one-size-fits-all" spatial analysis.
