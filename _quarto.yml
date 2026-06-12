@@ -14,7 +14,7 @@ website:
       - href: about.qmd
         text: About us
       - href: services.qmd
-        text: Services & Workflows
+        text: Services
       - href: projects.qmd  # Or "Case Studies / White Papers"
         text: Projects      
       - href: projects2.qmd  # Or "Case Studies / White Papers"

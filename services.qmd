@@ -11,33 +11,33 @@ At Prime Geospatial, we provide specialized services designed to bridge the gap 
 ::: {.g-col-12 .g-col-md-6}
 ### 1. Geospatial Consulting
 We offer tailored strategies for site-specific and regional environmental challenges.
-* **Landscape Analysis:** Assessing spatial patterns and environmental change over time.
-* **Environmental Risk Assessment:** Leveraging spatial intelligence to mitigate operational risks.
-* **Project Strategy:** Advising on the integration of geospatial technology into your existing workflows.
+- **Landscape Analysis:** Assessing spatial patterns and environmental change over time.
+- **Environmental Risk Assessment:** Leveraging spatial intelligence to mitigate operational risks.
+- **Project Strategy:** Advising on the integration of geospatial technology into your existing workflows.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### 2. Data Cleaning & Preprocessing
 Spatial data is only as good as its foundation. We ensure your datasets are robust and analysis-ready.
-* **Data Integration:** Merging disparate spatial and non-spatial environmental datasets.
-* **Cleaning & Quality Control:** Systematic removal of errors, noise, and inconsistencies in spatial features.
-* **Preprocessing Pipelines:** Developing reproducible workflows for automated data preparation.
+- **Data Integration:** Merging disparate spatial and non-spatial environmental datasets.
+- **Cleaning & Quality Control:** Systematic removal of errors, noise, and inconsistencies in spatial features.
+- **Preprocessing Pipelines:** Developing reproducible workflows for automated data preparation.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### 3. Professional Training & Capacity Building
 We empower your team to handle complex spatial challenges with confidence.
-* **Spatial Statistics:** Hands-on workshops covering modern methods for point pattern analysis, spatial regression, and interpolation.
-* **Ecological Modeling:** Technical courses on predictive modeling, habitat suitability, and species distribution.
-* **Geospatial Application:** Custom training in R/Python for GIS, advanced raster analysis, and automated mapping.
+- **Spatial Statistics:** Hands-on workshops covering modern methods for point pattern analysis, spatial regression, and interpolation.
+- **Ecological Modeling:** Technical courses on predictive modeling, habitat suitability, and species distribution.
+- **Geospatial Application:** Custom training in R/Python for GIS, advanced raster analysis, and automated mapping.
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ### 4. Analytical Support
 Beyond data preparation, we offer deep-dive analytical services for specialized research.
-* **Statistical Modeling:** Building custom models to address unique ecological questions.
-* **Visualization:** Creating high-impact, data-driven visualizations for reporting and decision-making.
-* **Code Review & Optimization:** Refining your existing spatial scripts for speed, scalability, and reproducibility.
+- **Statistical Modeling:** Building custom models to address unique ecological questions.
+- **Visualization:** Creating high-impact, data-driven visualizations for reporting and decision-making.
+- **Code Review & Optimization:** Refining your existing spatial scripts for speed, scalability, and reproducibility.
 :::
 
 :::

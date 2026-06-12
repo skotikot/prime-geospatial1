@@ -1,0 +1,59 @@
+---
+title: "Prime Geospatial"
+subtitle: "Ecological & Geospatial Research Analytics"
+page-layout: custom
+---
+
+<header class="hero-banner">
+
+<!-- The text overlay content -->
+
+<h1>Prime Geospatial</h1>
+
+</header>
+
+:::::::::::: {.page-columns .page-full}
+::::::::::: column-page
+We bridge the gap between complex spatial monitoring data and actionable environmental decision-support tools. Our team specializes in remote sensing pipelines, automated data cleaning workflows, and spatiotemporal modeling.
+
+------------------------------------------------------------------------
+
+## Primary Areas of Expertise
+
+:::::: columns
+::: {.column width="45%"}
+### 🛰️ Remote Sensing & Land-Cover
+
+We build automated analytical systems using satellite imagery archives to track fine-scale environmental and ecosystem dynamics over time.
+:::
+
+::: {.column width="10%"}
+<!-- Visual Spacer -->
+:::
+
+::: {.column width="45%"}
+### 📊 Data Optimization Pipelines
+
+We transform unstructured, messy, or scaled spatial data arrays into organized, open-access, reproducible computational workflows.
+:::
+::::::
+
+:::::: columns
+::: {.column width="45%"}
+### 🖥️ Spatial Decision Tools
+
+We design software packages and web interfaces that integrate complex environmental models directly into planning and management pipelines.
+:::
+
+::: {.column width="10%"}
+<!-- Visual Spacer -->
+:::
+
+::: {.column width="45%"}
+### 🌲 Landscape Architecture
+
+We calculate spatial fragmentation metrics and run advanced predictive models to help clients assess habitat suitability and long-term climate resilience.
+:::
+::::::
+:::::::::::
+::::::::::::

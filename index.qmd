@@ -1,6 +1,5 @@
 ---
 title: "Prime Geospatial"
-subtitle: "Ecological & Geospatial Research Analytics"
 page-layout: custom
 ---
 
@@ -12,48 +11,51 @@ page-layout: custom
 
 </header>
 
-:::::::::::: {.page-columns .page-full}
-::::::::::: column-page
-We bridge the gap between complex spatial monitoring data and actionable environmental decision-support tools. Our team specializes in remote sensing pipelines, automated data cleaning workflows, and spatiotemporal modeling.
 
-------------------------------------------------------------------------
+Welcome to Prime Geospatial
 
-## Primary Areas of Expertise
+Precision insights. Spatial intelligence. Environmental solutions.
 
-:::::: columns
-::: {.column width="45%"}
-### 🛰️ Remote Sensing & Land-Cover
-
-We build automated analytical systems using satellite imagery archives to track fine-scale environmental and ecosystem dynamics over time.
 :::
 
-::: {.column width="10%"}
-<!-- Visual Spacer -->
+::: {.grid}
+
+::: {.g-col-12 style="margin-top: 2rem; margin-bottom: 2rem; font-size: 1.25rem;"}
+At Prime Geospatial, we bridge the gap between complex spatial data and actionable decision-making. We specialize in transforming raw environmental and geographic information into clear, reliable insights that drive sustainable progress.
 :::
 
-::: {.column width="45%"}
-### 📊 Data Optimization Pipelines
-
-We transform unstructured, messy, or scaled spatial data arrays into organized, open-access, reproducible computational workflows.
-:::
-::::::
-
-:::::: columns
-::: {.column width="45%"}
-### 🖥️ Spatial Decision Tools
-
-We design software packages and web interfaces that integrate complex environmental models directly into planning and management pipelines.
+::: {.g-col-12 style="margin-bottom: 2rem;"}
+From robust data architecture and rigorous statistical analysis to expert-led professional training, we empower organizations to understand their landscape, mitigate risk, and optimize their operations through the power of spatial science.
 :::
 
-::: {.column width="10%"}
-<!-- Visual Spacer -->
+::: {.g-col-12 .g-col-md-4}
+
+Consulting & Analysis
+
+Tailored geospatial strategies to solve your most complex site-specific and regional challenges.
 :::
 
-::: {.column width="45%"}
-### 🌲 Landscape Architecture
+::: {.g-col-12 .g-col-md-4}
 
-We calculate spatial fragmentation metrics and run advanced predictive models to help clients assess habitat suitability and long-term climate resilience.
+Data Integrity
+
+Expert-level cleaning, processing, and management to ensure your spatial data is ready for high-stakes modeling.
 :::
-::::::
-:::::::::::
-::::::::::::
+
+::: {.g-col-12 .g-col-md-4}
+
+Capacity Building
+
+Specialized, hands-on training in advanced geospatial applications, spatial statistics, and ecological modeling.
+:::
+
+:::
+
+::: {.column-screen style="background-color: #004a99; color: white; padding: 3rem 2rem; text-align: center; margin-top: 3rem;"}
+
+Ready to map out your next project?
+
+We are currently preparing our systems for launch. If you are interested in partnering with us or scheduling a consultation, we would love to hear from you.
+
+Contact Us / Get in Touch
+:::
