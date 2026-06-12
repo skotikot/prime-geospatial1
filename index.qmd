@@ -12,50 +12,67 @@ page-layout: custom
 </header>
 
 
-Welcome to Prime Geospatial
+:::::::::::: {.page-columns .page-full}
+::::::::::: column-page
 
-Precision insights. Spatial intelligence. Environmental solutions.
+# Welcome to Prime Geospatial
 
-:::
+## Precision insights. Spatial intelligence. Environmental solutions.
 
-::: {.grid}
-
-::: {.g-col-12 style="margin-top: 2rem; margin-bottom: 2rem; font-size: 1.25rem;"}
 At Prime Geospatial, we bridge the gap between complex spatial data and actionable decision-making. We specialize in transforming raw environmental and geographic information into clear, reliable insights that drive sustainable progress.
-:::
 
-::: {.g-col-12 style="margin-bottom: 2rem;"}
 From robust data architecture and rigorous statistical analysis to expert-led professional training, we empower organizations to understand their landscape, mitigate risk, and optimize their operations through the power of spatial science.
-:::
 
-::: {.g-col-12 .g-col-md-4}
 
-Consulting & Analysis
+------------------------------------------------------------------------
+
+# Our Core Pillars
+
+:::::: columns
+::: {.column width="45%"}
+### 🛰️Consulting & Analysisr
 
 Tailored geospatial strategies to solve your most complex site-specific and regional challenges.
 :::
 
-::: {.g-col-12 .g-col-md-4}
-
-Data Integrity
-
-Expert-level cleaning, processing, and management to ensure your spatial data is ready for high-stakes modeling.
+::: {.column width="10%"}
+<!-- Visual Spacer -->
 :::
 
-::: {.g-col-12 .g-col-md-4}
+::: {.column width="45%"}
+### 📊 Data Optimization Pipelines
 
-Capacity Building
+We transform unstructured, messy, or scaled spatial data arrays into organized, open-access, reproducible computational workflows.
+:::
+::::::
 
-Specialized, hands-on training in advanced geospatial applications, spatial statistics, and ecological modeling.
+:::::: columns
+::: {.column width="45%"}
+### 🖥️ Spatial Decision Tools
+
+We design software packages and web interfaces that integrate complex environmental models directly into planning and management pipelines.
 :::
 
+::: {.column width="10%"}
+<!-- Visual Spacer -->
 :::
+
+::: {.column width="45%"}
+### 🌲 Capacity Building
+
+Specialized, hands-on training in advanced geospatial applications, spatial statistics, and ecological modeling for professionals.
+:::
+::::::
+:::::::::::
+::::::::::::
+
+
 
 ::: {.column-screen style="background-color: #004a99; color: white; padding: 3rem 2rem; text-align: center; margin-top: 3rem;"}
 
-Ready to map out your next project?
+## **Ready to map out your next project?**
 
 We are currently preparing our systems for launch. If you are interested in partnering with us or scheduling a consultation, we would love to hear from you.
 
-Contact Us / Get in Touch
+**Get in Touch**
 :::
