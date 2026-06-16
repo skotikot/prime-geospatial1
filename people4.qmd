@@ -2,14 +2,16 @@
 title: "Meet the Team"
 ---
 
+<h1 style="text-align: center; margin-bottom: 2rem;">Meet the Team2</h1>
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 ![](images/Kotikot.jpg){.rounded-circle style="width: 200px; height: 200px; object-fit: cover;"}
 
-Susan Kotikot
+# Susan Kotikot
 
-Principal Investigator
+### Principal Investigator
 
 Susan leads our research initiatives with a focus on spatial data science and ecological modeling, driving our technical direction and project strategy.
 :::
@@ -17,9 +19,9 @@ Susan leads our research initiatives with a focus on spatial data science and ec
 ::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 ![](images/Akanga.jpg){.rounded-circle style="width: 200px; height: 200px; object-fit: cover;"}
 
-Donald Akanga
+# Donald Akanga
 
-Senior Geospatial Analyst
+### Senior Geospatial Analyst
 
 Donald specializes in robust data architecture and geospatial processing, ensuring that every project is built upon a foundation of data integrity.
 :::
@@ -27,11 +29,12 @@ Donald specializes in robust data architecture and geospatial processing, ensuri
 ::: {.g-col-12 .g-col-md-4 style="text-align: center;"}
 ![](images/Wanyama.jpg){.rounded-circle style="width: 200px; height: 200px; object-fit: cover;"}
 
-Dan Wanyama
+# Dan Wanyama
 
-Postdoctoral Researcher
+### Postdoctoral Researcher
 
 Dan focuses on the intersection of ecological modeling and statistical analysis, helping us turn complex landscape data into actionable insights.
 :::
 
 :::
+
