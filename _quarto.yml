@@ -11,6 +11,7 @@ website:
     foreground: "#FFFFFF"
     left:
       # Home button removed
+      - href: index.qmd
       - href: about.qmd
         text: About us
       - href: people.qmd
