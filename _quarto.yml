@@ -4,7 +4,7 @@ project:
 
 website:
   #title: PrimeGeospatial
-  logo: images/logo.jpg
+  logo: /images/logo.jpg
   search: true
   navbar:
     pinned: true

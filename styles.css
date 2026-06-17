@@ -211,18 +211,23 @@ box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 
 /* banner*/
 
-/* STREAMING_CHUNK:Styling the hero background with a gradient */
+/* STREAMING_CHUNK:Styling the hero background with a gradient and image */
 .hero-banner {
 text-align: center;
 padding: 8rem 2rem;
-background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.jpg');
-/*background: linear-gradient(135deg, #2A5A5C 0%, #3a7577 100%);*/
+/ Ensure the path is correct: if styles.css is in root, 'images/bannerNew.jpg' is correct /
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.jpg');
+background-size: cover;          / Crucial: makes the image fill the area /
+background-position: center;     / Crucial: centers the image /
+background-repeat: no-repeat;    / Prevents the image from tiling /
 color: white;
 display: flex;
+flex-direction: column;          / Helps keep text stacked correctly */
 justify-content: center;
 align-items: center;
 min-height: 50vh;
 }
+
 
 /* STREAMING_CHUNK:Styling hero typography */
 .hero-banner h1 {
@@ -259,3 +264,10 @@ background-color: #b07455 !important;
 transform: translateY(-2px);
 box-shadow: 0 6px 12px rgba(0,0,0,0.2);
 }
+
+
+
+
+
+
+

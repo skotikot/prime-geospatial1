@@ -15,6 +15,7 @@ We offer tailored strategies for site-specific and regional environmental challe
 - **Landscape Analysis:** Assessing spatial patterns and environmental change over time.
 - **Environmental Risk Assessment:** Leveraging spatial intelligence to mitigate operational risks.
 - **Project Strategy:** Advising on the integration of geospatial technology into your existing workflows.
+
 :::
 
 ::: {.g-col-12 .g-col-md-6}
@@ -30,9 +31,11 @@ Spatial data is only as good as its foundation. We ensure your datasets are robu
 ::: {.g-col-12 .g-col-md-6}
 ### 3. Professional Training & Capacity Building
 We empower your team to handle complex spatial challenges with confidence.
+
 - **Spatial Statistics:** Hands-on workshops covering modern methods for point pattern analysis, spatial regression, and interpolation.
 - **Ecological Modeling:** Technical courses on predictive modeling, habitat suitability, and species distribution.
 - **Geospatial Application:** Custom training in R/Python for GIS, advanced raster analysis, and automated mapping.
+
 :::
 
 ::: {.g-col-12 .g-col-md-6}
