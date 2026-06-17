@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Prime Geospatial"
-  search: true                  # Adds a top-right search bar just like academic sites
+  logo: images/logo.png
+  search: true
   navbar:
     pinned: true
     background: "#2A5A5C"            # Gives you that sharp, high-contrast header bar
@@ -31,4 +31,3 @@ format:
     toc: true                   # Generates the right-hand page navigation menu
     toc-location: right
 # Try changing 'flatly' to 'lux' or 'journal'
-

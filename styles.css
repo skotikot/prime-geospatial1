@@ -165,6 +165,10 @@ letter-spacing: 0.05em !important;
 color: #FFFFFF !important;
 }
 
+.navbar-brand img {
+  height: 40px; /* Adjust this to match your navbar height */
+}
+
 .navbar .navbar-nav .nav-link {
 color: #FFFFFF !important;
 font-weight: 700 !important;
