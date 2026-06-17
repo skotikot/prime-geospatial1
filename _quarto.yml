@@ -12,6 +12,7 @@ website:
     left:
       # Home button removed
       - href: index.qmd
+        text: Home
       - href: about.qmd
         text: About us
       - href: people.qmd
