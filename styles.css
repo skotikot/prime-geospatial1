@@ -136,31 +136,38 @@ h1, h2, h3 {
 }
 
 
+/* 1. Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
 
-
-
-/* 1. Navbar Styling */
-
-.navbar a {
+/* 2. Navbar Styling */
+.navbar {
 background-color: #2A5A5C !important;
-border-bottom: 3px solid #C68767 !important; / Earthy accent bottom border */
+border-bottom: 3px solid #C68767 !important;
 }
 
+/* 2b. Navbar Brand (Site Title) Styling */
+.navbar-brand {
+font-weight: 800 !important;
+text-transform: uppercase !important;
+letter-spacing: 0.05em !important;
+color: #FFFFFF !important;
+}
 
 .navbar .navbar-nav .nav-link {
 color: #FFFFFF !important;
 font-weight: 700 !important;
 text-transform: uppercase !important;
-letter-spacing: 0.05em; / Adds a nice touch to uppercase text */
+letter-spacing: 0.05em;
 }
 
-/* 2. Heading Typography */
-h1, h2, h3 {
+/* 3. Heading Typography - Updated to Open Sans 800 weight */
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-weight: 800;
 color: #2A5A5C !important;
-font-weight: 700;
 }
 
-/* 3. Button Styling (The CTA) */
+/* 4. Button Styling */
 .btn-primary {
 background-color: #C68767 !important;
 border-color: #C68767 !important;
@@ -171,15 +178,18 @@ color: white !important;
 background-color: #A57055 !important;
 }
 
-/* 4. Background and Content */
+/* 5. Background and Content */
 body {
 background-color: #F9FAFB !important;
 color: #2F3640 !important;
 line-height: 1.6;
+font-family: 'Open Sans', sans-serif; / Optional: Applies to body text too */
 }
 
-/* 5. Custom Card Styling for your Team/Services */
+/* 6. Custom Card Styling */
 .card {
 border: 1px solid #E0E0E0 !important;
 box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 }
+
+
