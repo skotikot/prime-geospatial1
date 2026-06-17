@@ -79,7 +79,7 @@ h1, h2, h3 {
   
   /* 2. Forces the image to span across the entire screen width */
   width: 100vw;
-  height: 200px; /* Adjust this height to make it taller or shorter */
+  height: 400px; /* Adjust this height to make it taller or shorter */
   
   /* 3. Keeps the image centered and beautifully scaled without distortion */
   background-position: center;
@@ -159,7 +159,7 @@ padding-right: 1rem;
 .navbar-brand {
 font-family: 'Open Sans', sans-serif !important;
 font-size: 2rem !important; / Adjust this size as needed */
-font-weight: 800 !important;
+font-weight: 700 !important;
 text-transform: uppercase !important;
 letter-spacing: 0.05em !important;
 color: #FFFFFF !important;

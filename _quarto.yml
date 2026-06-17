@@ -7,23 +7,18 @@ website:
   search: true                  # Adds a top-right search bar just like academic sites
   navbar:
     pinned: true
-    background: light            # Gives you that sharp, high-contrast header bar
-    foreground: dark
+    background: "#2A5A5C"            # Gives you that sharp, high-contrast header bar
+    foreground: "#FFFFFF"
     left:
-      - href: index.qmd
-        text: Home
+      # Home button removed
       - href: about.qmd
         text: About us
       - href: people.qmd
         text: Our Team
       - href: services.qmd
         text: Services
-      - href: projects.qmd  # Or "Case Studies / White Papers"
-        text: Projects      
       - href: projects2.qmd  # Or "Case Studies / White Papers"
-        text: Projects2
-      - href: projects3.qmd  # Or "Case Studies / White Papers"
-        text: Projects3
+        text: Projects
       - href: contact.qmd
         text: Contact
 
@@ -33,4 +28,5 @@ format:
     css: styles.css # <-- This line tells Quarto to look for your CSS file!
     toc: true                   # Generates the right-hand page navigation menu
     toc-location: right
+# Try changing 'flatly' to 'lux' or 'journal'
 
