@@ -136,15 +136,22 @@ h1, h2, h3 {
 }
 
 
-/* 1. Navbar Styling /
+
+
+
+/* 1. Navbar Styling */
 
 .navbar a {
 background-color: #2A5A5C !important;
 border-bottom: 3px solid #C68767 !important; / Earthy accent bottom border */
 }
 
-.navbar a {
+
+.navbar .navbar-nav .nav-link {
 color: #FFFFFF !important;
+font-weight: 700 !important;
+text-transform: uppercase !important;
+letter-spacing: 0.05em; / Adds a nice touch to uppercase text */
 }
 
 /* 2. Heading Typography */
