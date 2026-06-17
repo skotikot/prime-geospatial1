@@ -73,27 +73,7 @@ h1, h2, h3 {
   border-radius: 50%;   /* Optional: makes them circular */
 }
 
-.hero-banner {
-  /* 1. Linear-gradient creates the dark tint. Replace the second URL with your image path */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/banner.jpg');
-  
-  /* 2. Forces the image to span across the entire screen width */
-  width: 100vw;
-  height: 400px; /* Adjust this height to make it taller or shorter */
-  
-  /* 3. Keeps the image centered and beautifully scaled without distortion */
-  background-position: center;
-  background-size: cover;
-  
-  /* 4. Centers the text directly in the middle of the banner */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  
-  /* 5. Resets any default browser margins at the top of the page */
-  margin: 0;
-}
+
 
 /* Typography styling for the text sitting on top */
 .hero-content h1 {
@@ -211,18 +191,23 @@ box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 
 /* banner*/
 
-/* STREAMING_CHUNK:Styling the hero background with a gradient */
+/* STREAMING_CHUNK:Styling the hero background with a gradient and image */
 .hero-banner {
 text-align: center;
 padding: 8rem 2rem;
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.png');
-/*background: linear-gradient(135deg, #2A5A5C 0%, #3a7577 100%);*/
+/ Ensure the path is correct: if styles.css is in root, 'images/bannerNew.jpg' is correct /
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.jpg');
+background-size: cover;          / Crucial: makes the image fill the area /
+background-position: center;     / Crucial: centers the image /
+background-repeat: no-repeat;    / Prevents the image from tiling /
 color: white;
 display: flex;
+flex-direction: column;          / Helps keep text stacked correctly */
 justify-content: center;
 align-items: center;
 min-height: 50vh;
 }
+
 
 /* STREAMING_CHUNK:Styling hero typography */
 .hero-banner h1 {
@@ -259,3 +244,10 @@ background-color: #b07455 !important;
 transform: translateY(-2px);
 box-shadow: 0 6px 12px rgba(0,0,0,0.2);
 }
+
+
+
+
+
+
+

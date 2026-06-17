@@ -73,27 +73,7 @@ h1, h2, h3 {
   border-radius: 50%;   /* Optional: makes them circular */
 }
 
-.hero-banner {
-  /* 1. Linear-gradient creates the dark tint. Replace the second URL with your image path */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/banner.jpg');
-  
-  /* 2. Forces the image to span across the entire screen width */
-  width: 100vw;
-  height: 400px; /* Adjust this height to make it taller or shorter */
-  
-  /* 3. Keeps the image centered and beautifully scaled without distortion */
-  background-position: center;
-  background-size: cover;
-  
-  /* 4. Centers the text directly in the middle of the banner */
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  
-  /* 5. Resets any default browser margins at the top of the page */
-  margin: 0;
-}
+
 
 /* Typography styling for the text sitting on top */
 .hero-content h1 {
