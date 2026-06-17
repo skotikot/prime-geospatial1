@@ -6,7 +6,7 @@ body {
 }
 
 h1, h2, h3 {
-    font-weight: 700;
+    font-weight: 800;
     color: #1a1a1a;
     margin-top: 1.5em;
 }
@@ -139,16 +139,15 @@ h1, h2, h3 {
 /* 1. Import Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
 
-/* 2. Full-Width Navbar Styling /
+/* 2. Full-Width Navbar Styling */
 .navbar {
 background-color: #2A5A5C !important;
 border-bottom: 3px solid #C68767 !important;
 width: 100% !important;
-padding-left: 2rem !important; / Adjust if you need more spacing on the left */
+padding-left: 2rem !important;
 padding-right: 2rem !important;
 }
 
-/* Ensure the navbar container is full-width */
 .navbar .container,
 .navbar .container-fluid {
 max-width: 100% !important;
@@ -158,6 +157,8 @@ padding-right: 1rem;
 
 /* 2b. Navbar Brand (Site Title) Styling */
 .navbar-brand {
+font-family: 'Open Sans', sans-serif !important;
+font-size: 2rem !important; / Adjust this size as needed */
 font-weight: 800 !important;
 text-transform: uppercase !important;
 letter-spacing: 0.05em !important;
