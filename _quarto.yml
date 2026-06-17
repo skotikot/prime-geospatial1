@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Prime Geospatial"
+  title: "Prime Geospatial1"
   search: true                  # Adds a top-right search bar just like academic sites
   navbar:
     pinned: true

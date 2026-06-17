@@ -79,7 +79,7 @@ h1, h2, h3 {
   
   /* 2. Forces the image to span across the entire screen width */
   width: 100vw;
-  height: 400px; /* Adjust this height to make it taller or shorter */
+  height: 200px; /* Adjust this height to make it taller or shorter */
   
   /* 3. Keeps the image centered and beautifully scaled without distortion */
   background-position: center;
@@ -137,12 +137,23 @@ h1, h2, h3 {
 
 
 /* 1. Import Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap');
 
-/* 2. Navbar Styling */
+/* 2. Full-Width Navbar Styling /
 .navbar {
 background-color: #2A5A5C !important;
 border-bottom: 3px solid #C68767 !important;
+width: 100% !important;
+padding-left: 2rem !important; / Adjust if you need more spacing on the left */
+padding-right: 2rem !important;
+}
+
+/* Ensure the navbar container is full-width */
+.navbar .container,
+.navbar .container-fluid {
+max-width: 100% !important;
+padding-left: 1rem;
+padding-right: 1rem;
 }
 
 /* 2b. Navbar Brand (Site Title) Styling */
@@ -160,7 +171,7 @@ text-transform: uppercase !important;
 letter-spacing: 0.05em;
 }
 
-/* 3. Heading Typography - Updated to Open Sans 800 weight */
+/* 3. Heading Typography */
 h1, h2, h3, h4, h5, h6 {
 font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 font-weight: 800;
@@ -183,7 +194,7 @@ body {
 background-color: #F9FAFB !important;
 color: #2F3640 !important;
 line-height: 1.6;
-font-family: 'Open Sans', sans-serif; / Optional: Applies to body text too */
+font-family: 'Open Sans', sans-serif;
 }
 
 /* 6. Custom Card Styling */
