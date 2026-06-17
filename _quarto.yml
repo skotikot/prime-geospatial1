@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  logo: images/logo.png
+  title: PrimeGeospatial
+  #logo: images/logo.png
   search: true
   navbar:
     pinned: true

@@ -176,27 +176,6 @@ text-transform: uppercase !important;
 letter-spacing: 0.05em;
 }
 
-/* 3. Hero Banner Styling */
-.hero-banner {
-text-align: center;
-padding: 5rem 2rem;
-background-color: #F9FAFB;
-}
-
-.hero-banner h1 {
-font-size: 3.5rem;
-margin-bottom: 0.5rem;
-color: #2A5A5C !important;
-}
-
-.hero-banner h2 {
-font-size: 1.5rem;
-font-weight: 400;
-color: #556B6C; /* A slightly softer tone for the subhead */
-letter-spacing: 0.15em;
-/*text-transform: uppercase;*/
-margin-top: 0;
-
 
 /* 3. Heading Typography */
 h1, h2, h3, h4, h5, h6 {
@@ -230,4 +209,52 @@ border: 1px solid #E0E0E0 !important;
 box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 }
 
+/* banner*/
 
+/* STREAMING_CHUNK:Styling the hero background with a gradient */
+.hero-banner {
+text-align: center;
+padding: 8rem 2rem;
+background: linear-gradient(135deg, #2A5A5C 0%, #3a7577 100%);
+color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 50vh;
+}
+
+/* STREAMING_CHUNK:Styling hero typography */
+.hero-banner h1 {
+font-size: 4rem;
+font-weight: 800;
+margin-bottom: 1rem;
+color: white !important;
+}
+
+.hero-banner h2 {
+font-size: 1.5rem;
+font-weight: 300;
+color: #e0e0e0;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+margin-bottom: 2.5rem;
+}
+
+/* STREAMING_CHUNK:Styling the call-to-action button */
+.btn-primary {
+display: inline-block;
+padding: 1rem 2.5rem;
+background-color: #C68767 !important;
+color: white !important;
+text-decoration: none;
+font-weight: 700;
+border-radius: 50px;
+transition: all 0.3s ease;
+box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.btn-primary:hover {
+background-color: #b07455 !important;
+transform: translateY(-2px);
+box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}

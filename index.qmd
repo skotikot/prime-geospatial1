@@ -11,6 +11,10 @@ page-layout: custom
 
 <h2>Bridging the Gap Between Data and Discovery</h2>
 
+<!-- STREAMING_CHUNK:Adding the call-to-action button -->
+<a href="services.qmd" class="btn-primary">Explore Our Services</a>
+
+
 </header>
 
 
