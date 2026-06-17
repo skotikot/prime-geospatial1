@@ -215,7 +215,7 @@ box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 .hero-banner {
 text-align: center;
 padding: 8rem 2rem;
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.PNG');
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.png');
 /*background: linear-gradient(135deg, #2A5A5C 0%, #3a7577 100%);*/
 color: white;
 display: flex;
