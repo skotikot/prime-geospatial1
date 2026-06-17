@@ -176,6 +176,28 @@ text-transform: uppercase !important;
 letter-spacing: 0.05em;
 }
 
+/* 3. Hero Banner Styling */
+.hero-banner {
+text-align: center;
+padding: 5rem 2rem;
+background-color: #F9FAFB;
+}
+
+.hero-banner h1 {
+font-size: 3.5rem;
+margin-bottom: 0.5rem;
+color: #2A5A5C !important;
+}
+
+.hero-banner h2 {
+font-size: 1.5rem;
+font-weight: 400;
+color: #556B6C; /* A slightly softer tone for the subhead */
+letter-spacing: 0.15em;
+/*text-transform: uppercase;*/
+margin-top: 0;
+
+
 /* 3. Heading Typography */
 h1, h2, h3, h4, h5, h6 {
 font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;

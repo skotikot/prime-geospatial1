@@ -9,6 +9,8 @@ page-layout: custom
 
 <h1>Prime Geospatial</h1>
 
+<h2>Bridging the Gap Between Data and Discovery</h2>
+
 </header>
 
 
