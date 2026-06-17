@@ -6,13 +6,16 @@ website:
   title: "Prime Geospatial"
   search: true                  # Adds a top-right search bar just like academic sites
   navbar:
-    background: dark            # Gives you that sharp, high-contrast header bar
-    foreground: light
+    pinned: true
+    background: light            # Gives you that sharp, high-contrast header bar
+    foreground: dark
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About us
+      - href: people.qmd
+        text: Our Team
       - href: services.qmd
         text: Services
       - href: projects.qmd  # Or "Case Studies / White Papers"
@@ -21,8 +24,6 @@ website:
         text: Projects2
       - href: projects3.qmd  # Or "Case Studies / White Papers"
         text: Projects3
-      - href: people.qmd
-        text: Our Team
       - href: contact.qmd
         text: Contact
 

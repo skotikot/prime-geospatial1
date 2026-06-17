@@ -134,3 +134,45 @@ h1, h2, h3 {
     flex-wrap: wrap; /* Allows them to stack on top of each other on mobile */
   }
 }
+
+
+/* 1. Navbar Styling /
+
+.navbar a {
+background-color: #2A5A5C !important;
+border-bottom: 3px solid #C68767 !important; / Earthy accent bottom border */
+}
+
+.navbar a {
+color: #FFFFFF !important;
+}
+
+/* 2. Heading Typography */
+h1, h2, h3 {
+color: #2A5A5C !important;
+font-weight: 700;
+}
+
+/* 3. Button Styling (The CTA) */
+.btn-primary {
+background-color: #C68767 !important;
+border-color: #C68767 !important;
+color: white !important;
+}
+
+.btn-primary:hover {
+background-color: #A57055 !important;
+}
+
+/* 4. Background and Content */
+body {
+background-color: #F9FAFB !important;
+color: #2F3640 !important;
+line-height: 1.6;
+}
+
+/* 5. Custom Card Styling for your Team/Services */
+.card {
+border: 1px solid #E0E0E0 !important;
+box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
