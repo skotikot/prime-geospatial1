@@ -193,42 +193,24 @@ box-shadow: 0 4px 6px rgba(0,0,0,0.05);
 
 /* STREAMING_CHUNK:Styling the hero background with a gradient and image */
 .hero-banner {
-  /* 1. Linear-gradient creates the dark tint. Replace the second URL with your image path */
+  /* Add a fallback color (teal) so if the image fails, you see something */
+  background-color: #2A5A5C; 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/bannerNew.jpg');
   
-  /* 2. Forces the image to span across the entire screen width */
   width: 100vw;
-  height: 400px; /* Adjust this height to make it taller or shorter */
+  height: 400px;
   
-  /* 3. Keeps the image centered and beautifully scaled without distortion */
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat; /* Ensure it doesn't tile */
   
-  /* 4. Centers the text directly in the middle of the banner */
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   
-  /* 5. Resets any default browser margins at the top of the page */
   margin: 0;
-}
-
-/* STREAMING_CHUNK:Styling hero typography */
-.hero-banner h1 {
-font-size: 4rem;
-font-weight: 800;
-margin-bottom: 1rem;
-color: white !important;
-}
-
-.hero-banner h2 {
-font-size: 1.5rem;
-font-weight: 300;
-color: #e0e0e0;
-letter-spacing: 0.2em;
-text-transform: uppercase;
-margin-bottom: 2.5rem;
+  position: relative; /* Helps with layout stability */
 }
 
 /* STREAMING_CHUNK:Styling the call-to-action button */
